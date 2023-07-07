@@ -1,3 +1,4 @@
+cd -
 cd sd-models
 wget https://civitai.com/api/download/models/109123
 mv 109123 dreamshaper_7.safetensors
